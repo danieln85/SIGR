@@ -1,7 +1,15 @@
-## v1.0
+## [1.0]
 
-- Estructura inicial proyecto
-- Módulo usuarios
-- Módulo menú
-- Gestión ramas
-- Resolución conflictos
+### Features
+- Creación de la estructura inicial del proyecto
+- Implementación del módulo de usuarios
+- Implementación del módulo de menú
+
+### Documentation
+- Actualización del README
+
+### Refactor
+- Gestión y organización de ramas
+
+### Fixes
+- Resolución de conflictos durante merges
