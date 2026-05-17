@@ -1,2 +1,3 @@
 class Menu:
     bebidas=[]
+    platos=[]
