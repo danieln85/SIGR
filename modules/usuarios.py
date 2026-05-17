@@ -1,5 +1,5 @@
 class Usuario:
-    pass
-
-class Usuario:
     nombre=""
+
+    def login():
+        pass
