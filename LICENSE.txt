@@ -1,0 +1,14 @@
+MIT License
+
+Copyright (c) 2026 Tecnólogica del Oriente - Daniel Navas - Gestión del Software
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of the Software.
+
+The software is provided "as is", without warranty of any kind, express or implied,
+including but not limited to warranties of merchantability, fitness for a
+particular purpose and noninfringement.
+
+In no event shall the authors be liable for any claim, damages or other liability.
