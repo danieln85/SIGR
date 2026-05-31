@@ -1,1 +1,1 @@
-print("corregir error al realizaer el test en el repositorio")
+print("corregir error al realizar el test en el repositorio")
